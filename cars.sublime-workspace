@@ -1,0 +1,590 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"men",
+				"menu_elements"
+			],
+			[
+				"menu",
+				"menuObj"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"outer",
+				"outerHTML"
+			],
+			[
+				"inner",
+				"innerHTML  (variable)"
+			],
+			[
+				"ou",
+				"outerHTML"
+			],
+			[
+				"xml",
+				"xmlObject"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"parent",
+				"parent_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 29229,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"Paca",
+				"Package Control: Enable Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"pacca",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Dropbox/freelance/alex/cars/index.html",
+		"/C/freelance/raidix/js/data.json",
+		"/C/freelance/raidix/js/main.js",
+		"/C/freelance/raidix/index.html",
+		"/C/freelance/YandexTestTask/less/blocks.less",
+		"/C/freelance/YandexTestTask/less/styles.less",
+		"/C/freelance/YandexTestTask/index.html",
+		"/C/freelance/YandexTestTask/js/main.js",
+		"/C/freelance/YandexTestTask/css/index.html",
+		"/C/Users/CrazyTimon/AppData/Local/Temp/Rar$DIa0.305/main.js",
+		"/C/freelance/CrimsonJacketsTestTask/js/main.js",
+		"/C/freelance/CrimsonJacketsTestTask/less/blocks/menu/menu.less",
+		"/C/freelance/CrimsonJacketsTestTask/less/blocks.less",
+		"/C/freelance/CrimsonJacketsTestTask/less/styles.less",
+		"/C/freelance/CrimsonJacketsTestTask/index.html",
+		"/C/freelance/CrimsonJacketsTestTask/js/jsondata.js",
+		"/C/freelance/modnayalavka/config.php",
+		"/C/WebServers/home/mlavak.mla/www/template/main.tpl",
+		"/C/freelance/modnayalavka/backupFromServer5/main.tpl",
+		"/C/WebServers/home/mlavak.mla/www/template/css/style.css",
+		"/C/WebServers/home/mlavak.mla/www/template/category.tpl",
+		"/C/WebServers/home/mlavak.mla/www/plugins/category/plugin.php",
+		"/C/WebServers/home/mlavak.mla/www/template/js/scripts.js",
+		"/C/WebServers/home/mlavak.mla/www/system/functions/functions.mysqli.php",
+		"/C/freelance/modnayalavka/backupFromServer5/header.tpl",
+		"/C/freelance/modnayalavka/style.css",
+		"/C/freelance/modnayalavka/backupFromServer3/style.css",
+		"/C/freelance/modnayalavka/backupFromServer2/template/css/style.css",
+		"/C/freelance/modnayalavka/backupFromServer1/css/style.css",
+		"/C/freelance/modnayalavka/template/css/style.css",
+		"/C/freelance/modnayalavka/backupFromServer4/template/css/style.css",
+		"/C/Dropbox/notes.txt",
+		"/C/WebServers/home/mlavak.mla/www/system/template/elfinder/php/elFinderVolumeDriver.class.php",
+		"/C/WebServers/home/mlavak.mla/www/system/template/tinymce_br.tpl",
+		"/C/WebServers/home/mlavak.mla/www/plugins/product/product_add_edit.tpl",
+		"/C/WebServers/home/mlavak.mla/www/system/template/tinymce.tpl",
+		"/C/WebServers/home/mlavak.mla/www/system/template/header.tpl",
+		"/C/WebServers/home/mlavak.mla/www/system/template/elfinder/elfinder.html",
+		"/C/freelance/modnayalavka/backupFromServer4/system/config.php",
+		"/C/WebServers/home/mlavak.mla/www/plugins/product/plugin.php",
+		"/C/WebServers/home/mlavak.mla/www/plugins/product/admin.php",
+		"/C/WebServers/home/mlavak.mla/www/system/functions/functions.bengine.php",
+		"/C/WebServers/home/mlavak.mla/www/plugins/product/config.php",
+		"/C/WebServers/home/mlavak.mla/www/plugins/system/functions/functions.bengine.php",
+		"/C/WebServers/home/mlavak.mla/www/system/smarty/plugins/function.html_checkboxes.php",
+		"/C/WebServers/home/mlavak.mla/www/system/smarty/plugins/modifier.capitalize.php",
+		"/C/WebServers/home/mlavak.mla/www/cache/5673d186adde0932ec774cfa2176a19ee5809505.file.category.tpl.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/importxls/Setup/excel.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/importxls/excel_reader2_fromgooglelabs.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/importxls/admin.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/importxls/importxls.tpl",
+		"/C/WebServers/home/lustar.pror/www/plugins/category/admin.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/importxls/plugin.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/importxls/config.php",
+		"/C/WebServers/home/lustar.pror/www/system/template/header.tpl",
+		"/C/WebServers/home/lustar.pror/www/plugins/category/category_add_edit.tpl",
+		"/C/freelance/smail-tur/custom_style.css",
+		"/C/freelance/smail-tur/custom_script.js",
+		"/C/freelance/smail-tur/header.tpl",
+		"/C/freelance/smail-tur/backup4/custom_style.css",
+		"/C/freelance/smail-tur/contacts.tpl",
+		"/C/WebServers/home/lustar.pror/www/plugins/importxls/Setup/SAMPLE/XLS2HTML/SAMPLE.PHP",
+		"/C/Users/CrazyTimon/AppData/Local/Temp/Rar$DIa0.850/example.php",
+		"/C/Users/CrazyTimon/AppData/Local/Temp/Rar$DIa0.239/example.php",
+		"/C/WebServers/home/lustar.pror/www/.htaccess",
+		"/C/WebServers/home/lustar.pror/www/backup/plugins/category/category_add_edit.tpl",
+		"/C/WebServers/home/lustar.pror/www/system/admin/pages/pages_add_edit.tpl",
+		"/C/WebServers/home/lustar.pror/www/system/admin/pages/functions.php",
+		"/C/WebServers/home/lustar.pror/www/system/functions/functions.files.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/system/functions/functions.bengine.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/system/functions/functions.files.php",
+		"/C/Users/CRAZYT~1/AppData/Local/Temp/Rar$DRa0.318/excel_reader2.php",
+		"/C/Users/CrazyTimon/AppData/Local/Temp/Rar$DIa0.578/example.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/category/plugin.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/category/config.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/category/arrays.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/product/product.tpl",
+		"/C/freelance/modnayalavka/main.tpl",
+		"/C/WebServers/home/mlavak.mla/www/system/template/css/chosen.css",
+		"/C/WebServers/home/mlavak.mla/www/system/template/css/style.css",
+		"/C/Users/CrazyTimon/AppData/Local/Temp/Rar$DIa0.685/example.php",
+		"/C/freelance/modnayalavka/footer.tpl",
+		"/C/WebServers/home/mlavak.mla/www/template/footer.tpl",
+		"/C/Users/CrazyTimon/AppData/Local/Temp/Rar$DIa0.485/chosen.jquery.js",
+		"/C/Users/CrazyTimon/AppData/Local/Temp/Rar$DIa0.501/chosen.proto.js",
+		"/C/Users/CrazyTimon/AppData/Local/Temp/Rar$DIa0.506/chosen.proto.js",
+		"/c/WebServers/home/mlavak.mla/www/template/js/scripts.js",
+		"/C/freelance/modnayalavka/1/template/category.tpl",
+		"/C/freelance/modnayalavka/scripts.js",
+		"/C/freelance/smail-tur/footer.tpl",
+		"/C/freelance/modnayalavka/1/template/main.tpl",
+		"/C/freelance/modnayalavka/1/template/cart.tpl",
+		"/C/freelance/modnayalavka/1/template/header.tpl",
+		"/C/Users/CrazyTimon/Downloads/category (2).sql",
+		"/C/freelance/interesense/jsXMLpars - копия/style.css",
+		"/C/freelance/interesense/jsXMLpars - копия/index.html",
+		"/C/Users/CrazyTimon/Downloads/category.sql",
+		"/C/Users/CrazyTimon/Downloads/category (1).sql",
+		"/C/freelance/interesense/jsXMLpars/script.js",
+		"/C/freelance/interesense/jsXMLpars/style.css",
+		"/C/freelance/interesense/jsXMLpars/scriptv3.js",
+		"/C/freelance/interesense/jsXMLpars/index.html",
+		"/C/freelance/interesense/index.html",
+		"/C/WebServers/home/mlavak.mla/www/template/header.tpl",
+		"/C/WebServers/home/mlavak.mla/www/template/simple_page.tpl",
+		"/C/WebServers/home/mlavak.mla/www/template/main - копия.tpl",
+		"/C/freelance/smail-tur/backup2/simple_page.tpl",
+		"/C/freelance/smail-tur/backup2/news1.tpl",
+		"/C/freelance/smail-tur/backup2/footer.tpl",
+		"/C/freelance/smail-tur/backup2/body.tpl",
+		"/C/freelance/smail-tur/backup2/tours/config.php",
+		"/C/freelance/smail-tur/backup2/custom_script.js",
+		"/C/freelance/smail-tur/backup2/css/header.tpl",
+		"/C/freelance/smail-tur/backup2/css/custom_style.css",
+		"/C/freelance/smail-tur/backup2/tours/plugin.php",
+		"/C/freelance/smail-tur/backup2/tour_order.tpl",
+		"/C/freelance/smail-tur/backup2/css/news1.tpl",
+		"/C/WebServers/home/lustar.pror/www/plugins/cart/plugin.php",
+		"/C/WebServers/home/lustar.pror/www/plugins/cart/config.php",
+		"/C/WebServers/home/lustar.pror/www/template/css/custom.css",
+		"/C/WebServers/home/lustar.pror/www/template/footer.tpl",
+		"/C/WebServers/home/lustar.pror/www/template/js/custom_js.js",
+		"/C/trash/config.php",
+		"/C/Users/CrazyTimon/Downloads/lustra.sql",
+		"/C/WebServers/home/lustar.pror/www/template/cart.tpl",
+		"/C/WebServers/home/lustar.pror/www/template/category_list.tpl",
+		"/C/WebServers/home/lustar.pror/www/template/head.tpl",
+		"/C/WebServers/home/lustar.pror/www/template/empty.tpl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\WebServers\\home\\mlavak.mla\\www\\system\\",
+			"C:\\WebServers\\home\\mlavak.mla\\www\\system\\functions",
+			"C:\\WebServers\\home\\mlavak.mla\\www",
+			"C:\\WebServers\\home\\lustar.pror",
+			"c:\\WebServers\\home\\mlavak.mla\\www",
+			"C:\\WebServers\\home\\mlavka.mla\\www\\",
+			"C:\\WebServers\\home\\bengine-test-plugin.pro\\www\\",
+			"C:\\WebServers\\home\\bengine-test-plugin.pro\\www\\template"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"drawPieChart",
+			"class=\"active\"",
+			"<!-- /.navbar-header -->",
+			"debugger",
+			"FF0000",
+			"coin",
+			"catalog__filter__icon_arrow",
+			".js-arrow-right",
+			"catalog__filter__icon_arrow",
+			"js-filter",
+			"js-filter-percent",
+			"по стил",
+			"function doarray",
+			"doarray",
+			"copyJoin",
+			"elFinderBrowser",
+			"price",
+			"color",
+			"function edit",
+			"edit",
+			"color",
+			"decode",
+			"substr",
+			"length",
+			"lenght",
+			"substr",
+			"switch",
+			"$_GET",
+			"json",
+			"mpr",
+			"Рабочий лист:",
+			"var",
+			"windowManager",
+			"elFinderBrowser",
+			"type=\"file\"",
+			"type=\"submit\"",
+			"description",
+			"Ошибка установки плагин",
+			"div.body select",
+			"select",
+			"Катего",
+			"id=\"edit\"",
+			"coin-slider",
+			"traverse",
+			"pasteTag",
+			"slice",
+			"craz",
+			"\n                            <label class=\"control-label\" for=\"surname\">Фамилия</label>\n                            <input type=\"text\" id=\"surname\" name=\"surname\" placeholder=\"Фамилия\">",
+			"debugger",
+			"alert",
+			"plugin_array",
+			"debugger",
+			"footer",
+			"footer-payment",
+			".index__recomend",
+			".index__recomend span",
+			".dig_footer input",
+			".dig_footer__item_cock",
+			"description",
+			"descr",
+			"color-block",
+			"next",
+			"js-inc-item-count",
+			"exit",
+			"auhtkey",
+			"spa bottom-dashed",
+			"price",
+			"js-item",
+			"zachto",
+			"color",
+			"цвет",
+			"cart",
+			"catalog/",
+			"catalog.",
+			"catalog",
+			"docount",
+			"$_POST[\"cart\"] == \"price\"",
+			"desc",
+			"mpr",
+			"id",
+			"Купить",
+			"mpr",
+			"content",
+			"doarray",
+			"}\n",
+			"plugin",
+			"catalog_elements",
+			"img",
+			"template",
+			"center",
+			"Пример расслыки",
+			"index__mailer button",
+			".index__mailer button",
+			".index__mailer input",
+			".index__mailer-desc",
+			"dig_footer__item_ass",
+			"dig_footer__item",
+			"menu",
+			"l",
+			"bengine_mail",
+			"text",
+			">\n",
+			"агенств",
+			"агенство",
+			"конта",
+			"next",
+			"wowSlider",
+			"top__men",
+			"dropdown-menu",
+			"myModal",
+			"content",
+			"mpr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"recFormating",
+			"renderTag"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 29229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3032,
+								3032
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 980.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true
+}
